@@ -1,0 +1,16 @@
+BODY{
+    background-image: URL(https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+BUTTON{
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+}
+INPUT{
+    background-color: beige ;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px ;
+
+}
